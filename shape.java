@@ -7,6 +7,9 @@ class circle{
     public double Area(){
         return pi*radius*radius;
     }
+    public double volume(){
+        return pi*radius*radius*height;
+    }
 
 }
 
